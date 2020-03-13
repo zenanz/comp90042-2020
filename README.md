@@ -4,6 +4,7 @@ COMP90042 Natural Language Processing. See [Github Pages](https://zenanz.github.
 
 
 ## Slides
-|Week|Slides|
-|----|------|
-|2|[COMP90042_2020_Week2.pdf](slides/COMP90042_2020_Week2.pdf)|
+
+Week|Slides
+----|------
+2|[COMP90042_2020_Week2.pdf](slides/COMP90042_2020_Week2.pdf)
